@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://Aishagojo)
 <h1 align="center">Hi 👋, I'm Aisha Omar Farah</h1>
-<h3 align="center">A passionate frontend developer from kenya India</h3>
+<h3 align="center">A passionate frontend developer from kenya</h3>
 <img align="right" alt="cooding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20views&color=0e75b6&style=flat" alt="aishagojo" /> </p>
 
