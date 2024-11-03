@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aishaomarfarah" target="blank"><img src="https://img.shields.io/twitter/follow/aishaomarfarah?logo=twitter&style=for-the-badge" alt="aishaomarfarah" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,C++**
+- 🌱 I’m currently learning **Javascript,C++,**
 
 - 💬 Ask me about **web development**
 
