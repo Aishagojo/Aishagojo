@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20views&color=0e75b6&style=flat" alt="aishagojo" /> </p> <p align="left"> <a href="https://twitter.com/aishaomarfarah" target="blank"><img src="https://img.shields.io/twitter/follow/aishaomarfarah?logo=twitter&style=for-the-badge" alt="aishaomarfarah" /></a> </p>
 
-🌱 I’m currently learning JavaScript, C++
-
 💬 Ask me about web development
 
 📫 How to reach me aishaomarfarah@gmail.com
