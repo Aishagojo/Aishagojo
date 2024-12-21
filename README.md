@@ -8,7 +8,7 @@
 
 📫 How to reach me aishaomarfarah@gmail.com
 
-👩‍💻 I regularly practice coding challenges on platforms like LeetCode and HackerRank.
+👩‍💻 I regularly practice coding challenges on platforms like LeetCode
 
 🌟 I enjoy contributing to open-source projects and participating in hackathons.
 
