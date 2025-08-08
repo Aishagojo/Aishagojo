@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aisha Omar Farah</h1>
-<h3 align="center">🚀 Frontend Developer | Open-Source Contributor | Lifelong Learner</h3>
+<h3 align="center">🚀 Frontend & Web3 Developer | Open-Source Contributor | Lifelong Learner</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
 
@@ -13,11 +13,11 @@
 ---
 
 ### 💡 About Me
-- 💬 Ask me about **web development** (HTML, CSS, JavaScript, React, TailwindCSS)
+- 💬 Ask me about **Frontend Development, Tailwind CSS, React, Web3**
 - 📫 Reach me at **aishaomarfarah@gmail.com**
-- 👩‍💻 I solve coding challenges on **LeetCode** and **HackerRank**
+- 👩‍💻 I solve coding challenges on **LeetCode** 
 - 🌟 I enjoy contributing to **open-source projects** & joining **hackathons**
-- 📚 Always learning & exploring **new technologies**
+- 📚 Always learning & exploring **new technologies** in **Web2 & Web3**
 - 🎨 Passionate about **interactive and visually appealing UI/UX**
 
 ---
@@ -33,8 +33,9 @@
 ### 🛠 Languages & Tools
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.dfinity.org/motoko/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/motoko/motoko-original.svg" alt="Motoko" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
