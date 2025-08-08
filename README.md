@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=0e75b6&style=flat" alt="aishagojo" />
+  <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://twitter.com/aishaomarfarah" target="_blank">
     <img src="https://img.shields.io/twitter/follow/aishaomarfarah?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
@@ -15,10 +15,10 @@
 ### 💡 About Me
 - 💬 Ask me about **Frontend Development, Tailwind CSS, React, Web3**
 - 📫 Reach me at **aishaomarfarah@gmail.com**
-- 👩‍💻 I solve coding challenges on **LeetCode** 
-- 🌟 I enjoy contributing to **open-source projects** & joining **hackathons**
-- 📚 Always learning & exploring **new technologies** in **Web2 & Web3**
-- 🎨 Passionate about **interactive and visually appealing UI/UX**
+- 👩‍💻 I practice coding challenges on **LeetCode** & **HackerRank**
+- 🌟 Contributor to **open-source projects** & regular **hackathon participant**
+- 📚 Passionate about **learning new tech** in both **Web2 & Web3**
+- 🎨 Love creating **interactive, modern, and visually appealing designs**
 
 ---
 
@@ -35,7 +35,7 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
