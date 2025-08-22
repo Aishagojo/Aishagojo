@@ -15,8 +15,7 @@
 ### 💡 About Me
 - 💬 Ask me about **Frontend Development, Tailwind CSS, React, Web3**
 - 📫 Reach me at **aishaomarfarah@gmail.com**
-- 👩‍💻 I practice coding challenges on **LeetCode**
-- 🌟 Contributor to **open-source projects** & regular **hackathon participant**
+- 🌟  regular **hackathon participant**
 - 📚 Passionate about **learning new tech** in both **Web2 & Web3**
 - 🎨 Love creating **interactive, modern, and visually appealing designs**
 
