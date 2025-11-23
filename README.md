@@ -9,7 +9,7 @@
   <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square" /></a>
 </p>
 
----
+
 
 
 ---
@@ -43,21 +43,20 @@ and aligned with the needs of real users.
 
 <!-- Animated sparkly divider -->
 <h1 align="center">Are you here to hire me or stalk me? Either way… welcome.</h1>
-
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="250">
 </p>
 
 ## Tech Stack  
 
-### 💗 Languages I Work With
+###  Languages I Work With
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
 </p>
 
-### 💗 Frontend Development
+###  Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind"/>
@@ -65,7 +64,7 @@ and aligned with the needs of real users.
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
 </p>
 
-### 💗 Backend Development
+###  Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js"/>
@@ -74,14 +73,14 @@ and aligned with the needs of real users.
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask"/>
 </p>
 
-### 💗 Databases & Storage
+###  Databases & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
 </p>
 
-### 💗 Developer Tools
+###  Developer Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
@@ -90,7 +89,7 @@ and aligned with the needs of real users.
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
 </p>
 
-### 💗 Web3 & Blockchain
+###  Web3 & Blockchain
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity"/>
 </p>
