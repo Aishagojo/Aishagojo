@@ -27,6 +27,7 @@
 Are you here to hire me, or stalk me?  
 Either way… welcome.
 </p>
+https://i.pinimg.com/originals/4a/6a/63/4a6a638773d8eabcf2c98b5eb2d2877f.gif
 
 ---
 
