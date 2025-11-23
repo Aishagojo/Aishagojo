@@ -3,8 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat"/>
-  <a href="https://www.linkedin.com/in/aisha-omar-572429242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d770ff?style=flat-square" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-@aishaomarfarah-000000?style=flat-square" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/aisha-farah-572429242/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-d770ff?style=flat-square" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -15,14 +16,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2600&color=D57BFF&center=true&vCenter=true&width=640&lines=Full-stack+developer+with+aesthetic+vision;Design+%2B+Logic+in+perfect+balance;Fast+prototypes+for+hackathons;Beautiful+interfaces+and+solid+backends." alt="typing"/>
 </p>
 
+<!-- FIRST confused girl -->
 <p align="center">
-  <!-- WORKING CONFUSED ANIME GIRL -->
-  <img src="https://media.tenor.com/Z8dC4A5hJJoAAAAC/anime-girl-confused.gif" width="250" />
+  <img src="https://media.tenor.com/Z8dC4A5hJJoAAAAC/anime-girl-confused.gif" width="250"/>
 </p>
 
 <p align="center" style="font-weight:600; font-size:18px;">
 Are you here to hire me, or stalk me?  
 Either way… welcome.
+</p>
+
+<!-- SECOND confused girl (ADDED EXACTLY WHERE YOU SAID) -->
+<p align="center">
+  <img src="https://media.tenor.com/TK2SxWmr2GgAAAAC/confused-anime.gif" width="250"/>
 </p>
 
 ---
@@ -80,7 +86,7 @@ Either way… welcome.
 
 ## Contact
 - GitHub: **aishagojo**  
-- LinkedIn: **Aisha Omar Farah**  
+- LinkedIn: **Aisha Omar Farah** — https://www.linkedin.com/in/aisha-farah-572429242/  
 - Email: **aishaomarfarah@gmail.com**
 
 ---
