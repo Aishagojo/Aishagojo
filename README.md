@@ -51,6 +51,8 @@ and aligned with the needs of real users.
 ---
 
 <!-- Animated sparkly divider -->
+<h1 align="center">Are you here to hire me or stalk me? Either way… welcome.</h1>
+
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="250">
 </p>
