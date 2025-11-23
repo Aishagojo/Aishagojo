@@ -26,27 +26,26 @@
 ## Who I Am  
 
 <p align="center">
-  <!-- Pink aesthetic typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Didot&size=24&duration=2600&pause=600&color=FF7ADD&center=true&vCenter=true&width=650&lines=Soft+girl+in+tech+with+full-stack+superpowers;Blending+design+with+beautiful+engineering;Creating+clean%2C+feminine%2C+modern+digital+experiences;Building+with+clarity%2C+precision+and+aesthetic+energy" />
+  <!-- Pink professional typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=23&duration=2600&pause=600&color=FF7ADD&center=true&vCenter=true&width=700&lines=Full-stack+developer+with+aesthetic+precision;Blending+design+with+robust+engineering;Creating+modern%2C+intuitive%2C+user-focused+experiences;Committed+to+clarity%2C+quality+and+innovation" />
 </p>
 
 <p align="center">
-A full-stack developer with a soft, aesthetic tech-girl style —  
-blending clean design with functional engineering to create smooth,  
-intuitive, feminine, and beautifully structured digital experiences.
+I am a full-stack developer who combines clean engineering with a refined, modern design aesthetic.  
+My work focuses on building seamless, intuitive digital experiences that feel polished, thoughtful,  
+and aligned with the needs of real users.
 </p>
 
-<p align="center">
-I love:
-</p>
+<p align="center">I excel in:</p>
 
 <p align="center">
-• Building full-stack applications with emotional personality <br>
-• Clean UI that feels soft, minimal, and modern <br>
-• Hackathons where creativity becomes real fast <br>
-• Exploring Web3 and new innovative tech <br>
-• Designing experiences that look beautiful and work beautifully  
+• Developing full-stack applications with strong architectural foundations <br>
+• Crafting soft, minimal, and visually cohesive interfaces <br>
+• Rapid prototyping during hackathons and fast-paced environments <br>
+• Exploring emerging technologies, especially within Web3 ecosystems <br>
+• Designing digital experiences that are both beautiful and highly functional  
 </p>
+
 
 
 ---
