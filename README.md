@@ -106,11 +106,6 @@ and aligned with the needs of real users.
   />
 </p>
 
-<!-- PINK ANIME DIVIDER -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/d1/71/31/d17131b8fbda3a5011aee0e0debc08e0.gif" width="420"/>
-</p>
-
 <!-- GITHUB STATS + STREAK -->
 <p align="center">
   <img 
