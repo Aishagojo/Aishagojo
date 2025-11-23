@@ -13,63 +13,43 @@
 
 ---
 
-# Code. Build. Create.
+---
 
-█████╗ ██╗██╗ ██╗███████╗██╗ ██╗ █████╗
-██╔══██╗██║██║ ██║██╔════╝╚██╗██╔╝██╔══██╗
-███████║██║██║ ██║█████╗ ╚███╔╝ ███████║
-██╔══██║██║╚██╗ ██╔╝██╔══╝ ██╔██╗ ██╔══██║
-██║ ██║██║ ╚████╔╝ ███████╗██╔╝ ██╗██║ ██║
-╚═╝ ╚═╝╚═╝ ╚═══╝ ╚══════╝╚═╝ ╚═╝╚═╝ ╚═╝
+## About Me  
+I am a full-stack developer who loves building modern, clean, responsive digital experiences.  
+I participate in hackathons regularly, build fast MVPs, and enjoy working on meaningful, creative solutions.
 
-yaml
-Copy code
+My development style focuses on:
+- Clarity  
+- Performance  
+- Beautiful UI  
+- Smooth user experience  
+- Scalable backend structure  
 
 ---
 
-## About Me
-I am a passionate full-stack developer who loves building clean, modern, and user-friendly digital experiences.  
-I enjoy participating in hackathons, exploring new technologies, and collaborating on meaningful projects.
+## Tech Stack  
+<p align="left">
 
-I focus on creating applications that are:
-- Fast  
-- Responsive  
-- Scalable  
-- Beautiful and easy to use  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python" height="45"/>
 
----
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="45"/>
 
-## What I Do
-### Full-Stack Development
-- Frontend development with React, Tailwind, TypeScript  
-- Backend development with Node.js, Express, and Python  
-- REST API design and backend logic  
-- UI/UX structure and responsive layouts  
-- Web3 integrations and blockchain interactions  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
 
-### Hackathon Participation
-- Rapid MVP creation  
-- Team collaboration and problem-solving  
-- Pitching ideas and building prototypes  
-- Learning and experimenting with new tools  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
 
----
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" height="45"/>
 
-## Tech Stack
-### Languages
-Python • JavaScript • TypeScript  
+  <!-- Web3 -->
+  <img src="https://skillicons.dev/icons?i=solidity" height="45"/>
 
-### Frontend
-React • Tailwind CSS • HTML5 • CSS3  
-
-### Backend
-Node.js • Express • Python  
-
-### Databases
-MongoDB • MySQL  
-
-### Tools
-Git • Docker • Linux • VSCode  
+</p>
 
 ---
 
@@ -85,20 +65,20 @@ Git • Docker • Linux • VSCode
 
 ---
 
-## Current Focus
+## Current Work  
 - Building full-stack applications  
-- Improving backend & API design  
-- Exploring Web3 technologies  
-- Growing through hackathons and open-source  
-- Strengthening my portfolio  
+- Participating in hackathons  
+- Crafting modern UI experiences  
+- Expanding full-stack project portfolio  
+- Collaborating on open-source projects  
 
 ---
 
-## Contact
+## Contact  
 GitHub: aishagojo  
 LinkedIn: Aisha Omar Farah  
 Email: aishaomarfarah@gmail.com  
 
 ---
 
-<p align="center">Built with creativity, consistency, and clean code.</p>
+<p align="center">Designed with clarity, creativity, and clean code.</p>
