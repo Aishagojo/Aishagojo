@@ -11,12 +11,6 @@
 
 ---
 
-<!-- Soft animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunaal438/kunaal438/main/gifs/linedivider.gif" width="600"/>
-</p>
-
-
 
 ---
 
