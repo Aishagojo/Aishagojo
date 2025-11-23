@@ -1,10 +1,7 @@
 <h1 align="center">Aisha Omar Farah</h1>
 <h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Creative</h3>
 
-<!-- Soft anime girl coding aesthetic GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/42/fc/3a/42fc3a3fdc3ea91ca9baec516a5c22fe.gif" width="350"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat" />
