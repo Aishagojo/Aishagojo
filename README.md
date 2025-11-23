@@ -17,10 +17,6 @@
 
 </p>
 
-<p align="center">
-  <strong>Email:</strong> aishaomarfarah@gmail.com  
-</p>
-
 
 
 
