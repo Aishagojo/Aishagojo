@@ -1,13 +1,27 @@
 <h1 align="center">Aisha Omar Farah</h1>
 <h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Creative</h3>
 
-
+## Connect  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat" />
-  <a href="https://www.linkedin.com/in/aisha-omar-572429242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d770ff?style=flat-square" /></a>
-  <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square" /></a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aisha-farah-572429242/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:aishaomarfarah@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+
 </p>
+
+<p align="center">
+  <strong>Email:</strong> aishaomarfarah@gmail.com  
+</p>
+
+
 
 
 
@@ -88,32 +102,6 @@ and aligned with the needs of real users.
 </p>
 
 ---
-
-## Connect  
-
-<p align="center">
-
-  <!-- GitHub -->
-  <a href="https://github.com/aishagojo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aisha-farah-572429242/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:aishaomarfarah@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-  </a>
-
-</p>
-
-<p align="center">
-  <strong>Email:</strong> aishaomarfarah@gmail.com  
-</p>
-
 
 
 <p align="center">Designed in soft pastels, clean logic, and full-stack precision.</p>
