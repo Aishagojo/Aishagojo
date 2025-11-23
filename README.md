@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat"/>
   <a href="https://www.linkedin.com/in/aisha-farah-572429242/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-d770ff?style=flat-square" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -12,23 +12,25 @@
 
 ## Who I Am
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2600&color=D57BFF&center=true&vCenter=true&width=640&lines=Full-stack+developer+with+aesthetic+vision;Design+%2B+Logic+in+perfect+balance;Fast+prototypes+for+hackathons;Beautiful+interfaces+and+solid+backends." alt="typing"/>
+<!-- FUNNY LINE FIRST -->
+<p align="center" style="font-weight:600; font-size:18px;">
+Are you here to hire me, or stalk me?<br>
+Either way… welcome.
 </p>
 
-<!-- FIRST confused girl -->
+<!-- CONFUSED CHARACTER (100% Working GIF) -->
 <p align="center">
   <img src="https://media.tenor.com/Z8dC4A5hJJoAAAAC/anime-girl-confused.gif" width="250"/>
 </p>
 
-<p align="center" style="font-weight:600; font-size:18px;">
-Are you here to hire me, or stalk me?  
-Either way… welcome.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2600&color=D57BFF&center=true&vCenter=true&width=640&lines=Full-stack+developer+with+aesthetic+vision;Design+%2B+Logic+in+perfect+balance;Fast+prototypes+for+hackathons;Beautiful+interfaces+and+solid+backends."/>
 </p>
 
-<!-- SECOND confused girl (ADDED EXACTLY WHERE YOU SAID) -->
+<!-- SECOND CONFUSED GIRL JUST FOR EXTRA CUTE ENERGY -->
 <p align="center">
-  <img src="https://media.tenor.com/TK2SxWmr2GgAAAAC/confused-anime.gif" width="250"/>
+  <img src="https://media.tenor.com/TK2SxWmr2GgAAAAC/confused-anime.gif" width="240"/>
 </p>
 
 ---
@@ -86,7 +88,7 @@ Either way… welcome.
 
 ## Contact
 - GitHub: **aishagojo**  
-- LinkedIn: **Aisha Omar Farah** — https://www.linkedin.com/in/aisha-farah-572429242/  
+- LinkedIn: **Aisha Omar Farah**  
 - Email: **aishaomarfarah@gmail.com**
 
 ---
