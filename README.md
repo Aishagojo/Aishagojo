@@ -34,17 +34,29 @@ Copy code
 ---
 
 ## Who I Am  
-A full-stack developer with a soft, aesthetic tech-girl style — blending clean design with functional engineering.  
-I create modern experiences that are smooth, intuitive, feminine, and beautifully structured.
 
-I love:
-- Building full-stack applications with emotional, visual personality  
-- Clean UI that feels soft, minimal, and modern  
-- Hackathons where creativity becomes real in hours  
-- Exploring Web3 interactions and innovative tech  
-- Designing experiences that look beautiful and work beautifully  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/79/34/70/793470c7794fb9e7246b8d6f4c3fb6b5.gif" width="300">
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cambria&size=23&duration=2700&color=D57BFF&center=true&vCenter=true&width=500&lines=Building+soft+%26+beautiful+digital+experiences;Full-stack+developer+with+aesthetic+vision;Hackathon+creator+who+turns+ideas+into+reality;Where+design+meets+function+%2C+I+thrive." />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b4/0d/71/b40d7165bb9ffe2efae2f7bcde51d79f.gif" width="380">
+</p>
+
+### I create:
+- applications that feel **soft, modern, and intentional**  
+- interfaces that combine **beauty + logic**  
+- full-stack solutions with a **feminine tech aesthetic**  
+- fast MVPs for **hackathons, ideas, and experiments**
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3a/54/49/3a5449a09b40e4f98f52f36ca8d4fa0a.gif" width="300">
+</p>
+
 
 <!-- Animated sparkly divider -->
 <p align="center">
