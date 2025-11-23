@@ -99,24 +99,30 @@ and aligned with the needs of real users.
 
 ---
 ## GitHub Analytics  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishagojo&layout=compact&theme=rose_pine&hide_border=true&title_color=FF7ADD&text_color=ffffff" 
+    height="165"
+  />
+</p>
 
+<!-- PINK ANIME DIVIDER -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d1/71/31/d17131b8fbda3a5011aee0e0debc08e0.gif" width="420"/>
+</p>
+
+<!-- GITHUB STATS + STREAK -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF7ADD&icon_color=FF7ADD" 
-    height="160"
+    height="165"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=aishagojo&theme=rose_pine&hide_border=true&currStreakLabel=FF7ADD&ring=FF7ADD&fire=FF7ADD&sideNums=FF7ADD" 
-    height="160"
+    height="165"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishagojo&layout=compact&theme=rose_pine&hide_border=true&title_color=FF7ADD" 
-    height="160"
-  />
-</p>
 
 
 <p align="center">Designed in soft pastels, clean logic, and full-stack precision.</p>
