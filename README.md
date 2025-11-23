@@ -1,30 +1,45 @@
-<h1 align="center">Hi, I'm Aisha Omar Farah</h1>
-<h3 align="center">Full-Stack Developer | Web3 Enthusiast | Regular Hackathon Participant</h3>
+<h1 align="center">Aisha Omar Farah</h1>
+<h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Creative</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="350"/>
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="340"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=ba68c8&style=flat" />
-  <a href="https://www.linkedin.com/in/aisha-omar-572429242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-purple?style=flat-square" /></a>
-  <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-Follow-black?style=flat-square" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat" />
+  <a href="https://www.linkedin.com/in/aisha-omar-572429242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d770ff?style=flat-square" /></a>
+  <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square" /></a>
 </p>
 
 ---
 
+# Aesthetic. Precise. Unapologetically Creative.
+
+███████╗██╗ ██╗██╗ ██╗ ███████╗████████╗██╗ ██╗
+██╔════╝██║ ██║██║ ██║ ██╔════╝╚══██╔══╝╚██╗ ██╔╝
+█████╗ ██║ ██║██║ ██║ ███████╗ ██║ ╚████╔╝
+██╔══╝ ██║ ██║██║ ██║ ╚════██║ ██║ ╚██╔╝
+██║ ╚██████╔╝███████╗███████╗ ███████║ ██║ ██║
+╚═╝ ╚═════╝ ╚══════╝╚══════╝ ╚══════╝ ╚═╝ ╚═╝
+
+php-template
+Copy code
+
 ---
 
-## About Me  
-I am a full-stack developer who loves building modern, clean, responsive digital experiences.  
-I participate in hackathons regularly, build fast MVPs, and enjoy working on meaningful, creative solutions.
+## Who I Am  
+A full-stack developer blending **technical clarity** with **aesthetic vision**.  
+I build interfaces that feel modern, soft, and intentional — supported by scalable backend systems.  
+I thrive in hackathons, where creativity, speed, and execution matter most.
 
-My development style focuses on:
-- Clarity  
-- Performance  
-- Beautiful UI  
-- Smooth user experience  
-- Scalable backend structure  
+I care about:
+- Clean, minimal, feminine design  
+- Intuitive user experience  
+- Efficient, scalable architecture  
+- Real-world problem solving  
+- Web3 exploration and innovative tech  
+
+I build products that are not only functional — but **beautiful**, **thoughtful**, and **experience-driven**.  
 
 ---
 
@@ -53,32 +68,34 @@ My development style focuses on:
 
 ---
 
-## GitHub Stats
+## GitHub Highlights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishagojo&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishagojo&theme=rose_pine&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishagojo&layout=compact&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishagojo&layout=compact&theme=rose_pine&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## Current Work  
-- Building full-stack applications  
-- Participating in hackathons  
-- Crafting modern UI experiences  
-- Expanding full-stack project portfolio  
-- Collaborating on open-source projects  
+## What I Create  
+- Full-stack applications with modern UI  
+- Web experiences that feel soft, elegant, and intentional  
+- Clean, scalable backend structures  
+- Fast prototypes and creative hackathon solutions  
+- Web3 interactive components  
+
+I build for people who love **beauty with logic**, **design with function**, and **tech with personality**.
 
 ---
 
-## Contact  
+## Connect  
 GitHub: aishagojo  
 LinkedIn: Aisha Omar Farah  
 Email: aishaomarfarah@gmail.com  
 
 ---
 
-<p align="center">Designed with clarity, creativity, and clean code.</p>
+<p align="center">Crafted with vision, detail, and a full-stack mindset.</p>
