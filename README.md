@@ -9,25 +9,21 @@
 
 ---
 
----
-
 ## Who I Am
 
 <p align="center">
-  <!-- animated soft typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2600&color=D57BFF&center=true&vCenter=true&width=640&lines=Full-stack+developer+with+aesthetic+vision;Design+%2B+Logic+in+perfect+balance;Fast+prototypes+for+hackathons;Beautiful+interfaces+and+solid+backends." alt="typing"/>
 </p>
 
 <p align="center">
-  <!-- cute confused girl -->
-  <img src="https://i.pinimg.com/originals/8a/1e/dd/8a1edd490d71efb9c537714a0dcf8220.gif" width="280" alt="confused-girl"/>
+  <!-- WORKING CONFUSED ANIME GIRL -->
+  <img src="https://media.tenor.com/Z8dC4A5hJJoAAAAC/anime-girl-confused.gif" width="250" />
 </p>
 
 <p align="center" style="font-weight:600; font-size:18px;">
 Are you here to hire me, or stalk me?  
 Either way… welcome.
 </p>
-https://i.pinimg.com/originals/4a/6a/63/4a6a638773d8eabcf2c98b5eb2d2877f.gif
 
 ---
 
@@ -44,46 +40,47 @@ https://i.pinimg.com/originals/4a/6a/63/4a6a638773d8eabcf2c98b5eb2d2877f.gif
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=html" height="36"/>
+  <img src="https://skillicons.dev/icons?i=css" height="36"/>
+  <img src="https://skillicons.dev/icons?i=js" height="36"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="36"/>
+  <img src="https://skillicons.dev/icons?i=react" height="36"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
 </p>
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="Express"/>
-  <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=flask,django" height="36" alt="Flask/Django"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
+  <img src="https://skillicons.dev/icons?i=express" height="36"/>
+  <img src="https://skillicons.dev/icons?i=python" height="36"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="36"/>
+  <img src="https://skillicons.dev/icons?i=django" height="36"/>
 </p>
 
 ### Databases & Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="36"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="36"/>
 </p>
 
 ---
 
 ## GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=rose_pine&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishagojo&theme=rose_pine&hide_border=true" height="150" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishagojo&theme=rose_pine&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishagojo&layout=compact&theme=rose_pine&hide_border=true" height="120" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishagojo&layout=compact&theme=rose_pine&hide_border=true" height="120"/>
 </p>
 
 ---
 
 ## Contact
 - GitHub: **aishagojo**  
-- LinkedIn: **Aisha Omar Farah** — https://www.linkedin.com/in/aisha-omar-572429242/  
+- LinkedIn: **Aisha Omar Farah**  
 - Email: **aishaomarfarah@gmail.com**
 
 ---
