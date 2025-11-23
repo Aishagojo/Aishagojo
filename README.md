@@ -1,13 +1,12 @@
 <h1 align="center">Aisha Omar Farah</h1>
-<h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Regular</h3>
+<h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Creative</h3>
 
 <p align="center">
-  <!-- Cute static aesthetic coding cartoon -->
-  <img src="https://i.pinimg.com/originals/42/fc/3a/42fc3a3fdc3ea91ca9baec516a5c22fe.jpg" width="320" alt="aesthetic-coding-cartoon"/>
+  <img src="https://i.pinimg.com/originals/42/fc/3a/42fc3a3fdc3ea91ca9baec516a5c22fe.jpg" width="320"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat"/>
   <a href="https://www.linkedin.com/in/aisha-omar-572429242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d770ff?style=flat-square" /></a>
   <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square" /></a>
 </p>
@@ -19,17 +18,37 @@
 ---
 
 ## Who I Am  
+
 <p align="center">
-  Building elegant, useful products.  
-  Full-stack craft with design sensibility.  
-  Fast at prototypes; meticulous in delivery.
+  <img src="https://i.pinimg.com/originals/79/34/70/793470c7794fb9e7246b8d6f4c3fb6b5.gif" width="280">
 </p>
 
-### I create
-- Full-stack applications that look and perform well  
-- Scalable backends and intuitive UIs  
-- Clean, minimal, user-first interfaces  
-- Rapid MVPs for hackathons and product testing  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2600&color=D57BFF&center=true&vCenter=true&width=600&lines=Full-stack+developer+with+aesthetic+vision;Design+and+logic+in+perfect+balance;Turning+ideas+into+fast+hackathon+MVPs;Creating+soft%2C+beautiful%2C+functional+experiences." />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b4/0d/71/b40d7165bb9ffe2efae2f7bcde51d79f.gif" width="350">
+</p>
+
+### And before you scroll further...
+<p align="center" style="font-size: 18px; font-weight: bold;">
+Are you here to hire me or stalk me?  
+Either way… welcome.
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4a/6a/63/4a6a638773d8eabcf2c98b5eb2d2877f.gif" width="260" alt="confused-man"/>
+</p>
+
+---
+
+## What I Create
+- Full-stack applications with clean structure  
+- Beautiful, soft UI that feels modern & intentional  
+- Scalable backend systems that just work  
+- Rapid MVPs for hackathons and fast product ideas  
+- Web3-powered interactive experiences  
 
 ---
 
@@ -77,4 +96,4 @@ Email: **aishaomarfarah@gmail.com**
 
 ---
 
-<p align="center">Designed in soft pastels, clean logic, and full-stack precision.</p>
+<p align="center">Soft aesthetic, clean logic, full-stack precision.</p>
