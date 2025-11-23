@@ -1,24 +1,25 @@
 <h1 align="center">Aisha Omar Farah</h1>
 <h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Regular</h3>
 
-<p align="center">
-  <!-- Cute static aesthetic coding cartoon -->
-  <img src="https://i.pinimg.com/originals/42/fc/3a/42fc3a3fdc3ea91ca9baec516a5c22fe.jpg" width="320" alt="aesthetic-coding-cartoon"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aishagojo&label=Profile%20Views&color=d777f3&style=flat" />
-  <a href="https://www.linkedin.com/in/aisha-omar-572429242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d770ff?style=flat-square" /></a>
-  <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/aisha-omar-572429242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/aishaomarfarah"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square&logo=twitter" /></a>
 </p>
-
----
-
-
 
 ---
 
 ## Who I Am  
+<p align="center">
+  <b>Are you here to hire me or stalk me? 👀</b>
+</p>
+
+<p align="center">
+  <!-- Confused cartoon GIF -->
+  <img src="https://media.tenor.com/fnDxJ3lCJG4AAAAM/confused-anime-girl.gif" width="260" alt="confused-gif"/>
+</p>
+
 <p align="center">
   Building elegant, useful products.  
   Full-stack craft with design sensibility.  
@@ -34,6 +35,7 @@
 ---
 
 ## Tech Stack  
+
 <p align="left">
 
   <!-- Languages -->
