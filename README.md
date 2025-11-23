@@ -1,8 +1,9 @@
 <h1 align="center">Aisha Omar Farah</h1>
 <h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Creative</h3>
 
+<!-- Soft anime girl coding aesthetic GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="340"/>
+  <img src="https://i.pinimg.com/originals/42/fc/3a/42fc3a3fdc3ea91ca9baec516a5c22fe.gif" width="350"/>
 </p>
 
 <p align="center">
@@ -13,25 +14,42 @@
 
 ---
 
+<!-- Soft animated divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunaal438/kunaal438/main/gifs/linedivider.gif" width="600"/>
+</p>
 
+# Elegant. Soft. Powerful.
+
+███████╗██╗ ██╗██╗ ██╗ ███████╗████████╗██╗ ██╗
+██╔════╝██║ ██║██║ ██║ ██╔════╝╚══██╔══╝╚██╗ ██╔╝
+█████╗ ██║ ██║██║ ██║ ███████╗ ██║ ╚████╔╝
+██╔══╝ ██║ ██║██║ ██║ ╚════██║ ██║ ╚██╔╝
+██║ ╚██████╔╝███████╗███████╗ ███████║ ██║ ██║
+╚═╝ ╚═════╝ ╚══════╝╚══════╝ ╚══════╝ ╚═╝ ╚═╝
+
+php-template
+Copy code
 
 ---
 
 ## Who I Am  
-A full-stack developer blending **technical clarity** with **aesthetic vision**.  
-I build interfaces that feel modern, soft, and intentional — supported by scalable backend systems.  
-I thrive in hackathons, where creativity, speed, and execution matter most.
+A full-stack developer with a soft, aesthetic tech-girl style — blending clean design with functional engineering.  
+I create modern experiences that are smooth, intuitive, feminine, and beautifully structured.
 
-I care about:
-- Clean, minimal, feminine design  
-- Intuitive user experience  
-- Efficient, scalable architecture  
-- Real-world problem solving  
-- Web3 exploration and innovative tech  
-
-I build products that are not only functional — but **beautiful**, **thoughtful**, and **experience-driven**.  
+I love:
+- Building full-stack applications with emotional, visual personality  
+- Clean UI that feels soft, minimal, and modern  
+- Hackathons where creativity becomes real in hours  
+- Exploring Web3 interactions and innovative tech  
+- Designing experiences that look beautiful and work beautifully  
 
 ---
+
+<!-- Animated sparkly divider -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="250">
+</p>
 
 ## Tech Stack  
 <p align="left">
@@ -58,6 +76,11 @@ I build products that are not only functional — but **beautiful**, **thoughtfu
 
 ---
 
+<!-- Cute anime divider -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d1/71/31/d17131b8fbda3a5011aee0e0debc08e0.gif" width="450"/>
+</p>
+
 ## GitHub Highlights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
@@ -70,16 +93,10 @@ I build products that are not only functional — but **beautiful**, **thoughtfu
 
 ---
 
-## What I Create  
-- Full-stack applications with modern UI  
-- Web experiences that feel soft, elegant, and intentional  
-- Clean, scalable backend structures  
-- Fast prototypes and creative hackathon solutions  
-- Web3 interactive components  
-
-I build for people who love **beauty with logic**, **design with function**, and **tech with personality**.
-
----
+<!-- More soft aesthetic animation -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/62/0b/f5/620bf51e43c3c10d65043a0f456b3c90.gif" width="350"/>
+</p>
 
 ## Connect  
 GitHub: aishagojo  
@@ -88,4 +105,4 @@ Email: aishaomarfarah@gmail.com
 
 ---
 
-<p align="center">Crafted with vision, detail, and a full-stack mindset.</p>
+<p align="center">Designed in soft pastels, clean logic, and full-stack precision.</p>
