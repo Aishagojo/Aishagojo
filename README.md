@@ -58,26 +58,50 @@ and aligned with the needs of real users.
 </p>
 
 ## Tech Stack  
+
+### 💗 Languages I Work With
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+</p>
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python" height="45"/>
+### 💗 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+</p>
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="45"/>
+### 💗 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python (Backend)"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask"/>
+</p>
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+### 💗 Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
+</p>
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
+### 💗 Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+</p>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" height="45"/>
-
-  <!-- Web3 -->
-  <img src="https://skillicons.dev/icons?i=solidity" height="45"/>
-
+### 💗 Web3 & Blockchain
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity"/>
 </p>
 
 ---
@@ -85,23 +109,6 @@ and aligned with the needs of real users.
 <!-- Cute anime divider -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/d1/71/31/d17131b8fbda3a5011aee0e0debc08e0.gif" width="450"/>
-</p>
-
-## GitHub Highlights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishagojo&theme=rose_pine&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishagojo&layout=compact&theme=rose_pine&hide_border=true" height="160"/>
-</p>
-
----
-
-<!-- More soft aesthetic animation -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/62/0b/f5/620bf51e43c3c10d65043a0f456b3c90.gif" width="350"/>
 </p>
 
 ## Connect  
