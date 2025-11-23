@@ -47,14 +47,7 @@ and aligned with the needs of real users.
   <img src="https://i.gifer.com/7VE.gif" width="250">
 </p>
 
-## Tech Stack  
-
-###  Languages I Work With
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-</p>
+## Tech Stack 
 
 ###  Frontend Development
 <p align="left">
@@ -96,16 +89,31 @@ and aligned with the needs of real users.
 
 ---
 
-<!-- Cute anime divider -->
+## Connect  
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d1/71/31/d17131b8fbda3a5011aee0e0debc08e0.gif" width="450"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/aishagojo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aisha-farah-572429242/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:aishaomarfarah@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+
 </p>
 
-## Connect  
-GitHub: aishagojo  
-LinkedIn: Aisha Omar Farah  
-Email: aishaomarfarah@gmail.com  
+<p align="center">
+  <strong>Email:</strong> aishaomarfarah@gmail.com  
+</p>
 
----
+
 
 <p align="center">Designed in soft pastels, clean logic, and full-stack precision.</p>
