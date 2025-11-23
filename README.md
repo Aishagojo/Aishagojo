@@ -1,9 +1,9 @@
 <h1 align="center">Aisha Omar Farah</h1>
-<h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Creative</h3>
+<h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Regular</h3>
 
-<!-- Soft anime girl coding aesthetic GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/42/fc/3a/42fc3a3fdc3ea91ca9baec516a5c22fe.gif" width="350"/>
+  <!-- Cute static aesthetic coding cartoon -->
+  <img src="https://i.pinimg.com/originals/42/fc/3a/42fc3a3fdc3ea91ca9baec516a5c22fe.jpg" width="320" alt="aesthetic-coding-cartoon"/>
 </p>
 
 <p align="center">
@@ -14,44 +14,34 @@
 
 ---
 
-<!-- Soft animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunaal438/kunaal438/main/gifs/linedivider.gif" width="600"/>
-</p>
+# Code. Build. Create.
 
+█████╗ ██╗██╗ ██╗███████╗██╗ ██╗ █████╗
+██╔══██╗██║██║ ██║██╔════╝╚██╗██╔╝██╔══██╗
+███████║██║██║ ██║█████╗ ╚███╔╝ ███████║
+██╔══██║██║╚██╗ ██╔╝██╔══╝ ██╔██╗ ██╔══██║
+██║ ██║██║ ╚████╔╝ ███████╗██╔╝ ██╗██║ ██║
+╚═╝ ╚═╝╚═╝ ╚═══╝ ╚══════╝╚═╝ ╚═╝╚═╝ ╚═╝
 
+php-template
+Copy code
 
 ---
 
 ## Who I Am  
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/79/34/70/793470c7794fb9e7246b8d6f4c3fb6b5.gif" width="300">
+  Building elegant, useful products.  
+  Full-stack craft with design sensibility.  
+  Fast at prototypes; meticulous in delivery.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cambria&size=23&duration=2700&color=D57BFF&center=true&vCenter=true&width=500&lines=Building+soft+%26+beautiful+digital+experiences;Full-stack+developer+with+aesthetic+vision;Hackathon+creator+who+turns+ideas+into+reality;Where+design+meets+function+%2C+I+thrive." />
-</p>
+### I create
+- Full-stack applications that look and perform well  
+- Scalable backends and intuitive UIs  
+- Clean, minimal, user-first interfaces  
+- Rapid MVPs for hackathons and product testing  
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b4/0d/71/b40d7165bb9ffe2efae2f7bcde51d79f.gif" width="380">
-</p>
-
-### I create:
-- applications that feel **soft, modern, and intentional**  
-- interfaces that combine **beauty + logic**  
-- full-stack solutions with a **feminine tech aesthetic**  
-- fast MVPs for **hackathons, ideas, and experiments**
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/3a/54/49/3a5449a09b40e4f98f52f36ca8d4fa0a.gif" width="300">
-</p>
-
-
-<!-- Animated sparkly divider -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="250">
-</p>
+---
 
 ## Tech Stack  
 <p align="left">
@@ -78,11 +68,6 @@
 
 ---
 
-<!-- Cute anime divider -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/d1/71/31/d17131b8fbda3a5011aee0e0debc08e0.gif" width="450"/>
-</p>
-
 ## GitHub Highlights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishagojo&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
@@ -95,15 +80,10 @@
 
 ---
 
-<!-- More soft aesthetic animation -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/62/0b/f5/620bf51e43c3c10d65043a0f456b3c90.gif" width="350"/>
-</p>
-
-## Connect  
-GitHub: aishagojo  
-LinkedIn: Aisha Omar Farah  
-Email: aishaomarfarah@gmail.com  
+## Contact  
+GitHub: **aishagojo**  
+LinkedIn: **Aisha Omar Farah**  
+Email: **aishaomarfarah@gmail.com**
 
 ---
 
