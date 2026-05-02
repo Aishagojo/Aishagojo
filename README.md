@@ -1,5 +1,5 @@
 <h1 align="center">Aisha Omar Farah</h1>
-<h3 align="center">Full-Stack Developer • Web3 Enthusiast • Hackathon Creative</h3>
+<h3 align="center">Full-Stack Developer • Web3 Enthusiast </h3>
 
 ## Connect  
 
