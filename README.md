@@ -5,22 +5,22 @@
 
 <p align="center">
 
+  <!-- Portfolio -->
+  <a href="https://aishaomarfarah.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7ADD?style=for-the-badge&logo=react&logoColor=white" height="40" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aisha-farah-572429242/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-
+  &nbsp;
   <!-- Email -->
   <a href="mailto:aishaomarfarah@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-  </a>
+  </a>  
 
 </p>
-
-
-
-
-
 
 ---
 
@@ -34,7 +34,7 @@
 <p align="center">
 I am a full-stack developer who combines clean engineering with a refined, modern design aesthetic.  
 My work focuses on building seamless, intuitive digital experiences that feel polished, thoughtful,  
-and aligned with the needs of real users.
+and aligned with the needs of real users. Explore my work at <a href="https://aishaomarfarah.onrender.com/" target="_blank"><b>aishaomarfarah.onrender.com</b></a>.
 </p>
 
 <p align="center">I excel in:</p>
@@ -46,8 +46,6 @@ and aligned with the needs of real users.
 • Exploring emerging technologies, especially within Web3 ecosystems <br>
 • Designing digital experiences that are both beautiful and highly functional  
 </p>
-
-
 
 ---
 
@@ -99,7 +97,4 @@ and aligned with the needs of real users.
 
 ---
 
-
-
-
-<p align="center">Designed with love </p>
+<p align="center">Designed with love • <a href="https://aishaomarfarah.onrender.com/" target="_blank">Portfolio</a></p>
