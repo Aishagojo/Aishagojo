@@ -1,29 +1,27 @@
-Markdown
-<div align="center">
+===============================================================================
+
+ / _ \ |_   _| / ___| | | | / _ \   |_ _| / _ \     |_ _| / _ \ 
+/ /_\ \  | |   \___ \ | |_| |/ /_\ \   | | | | | |     | | | | | |
+
+|  _  |  | |    ___) ||  _  ||  _  |   | | | |_| |  _  | | | |_| |
+|_| |_|  |_|   |____/ |_| |_||_| |_|  |___| \___/  (___)_|  \___/ 
 
 ===============================================================================
 
-/ _ / | | || |/ _ | |   | || | | __| | |   |
-| () _ | || __ | () | | | | | __ | | _|| _| | |  | |
-_/|/||||___/|| || |||| || ||| |_|
-
-
 ### Network Endpoints & Direct Contact
+[Portfolio](https://github.io) | [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com)
 
-[Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com)
-
-
-</div>
-
-```bash
-$ gdb -q ./aisha_farah
+```gdb
+\$ gdb -q ./aisha_farah
 (gdb) info target
 Symbols loaded from /usr/bin/aisha_farah:
   [0x00] BS_CIS      : B.S. Computer Information Systems
   [0x01] ARCH        : Linux x86_64 / Daily Driver
   [0x02] KERNEL_OPTS : --strict-types --zero-copy --no-ai-shortcuts
-Hackathon Victories & Exploits
-C
+```
+
+### Hackathon Victories & Exploits
+```c
 /* 
  * kernel/victories.c - Verified First Place Hackathon Executions
  */
@@ -38,9 +36,9 @@ struct HackathonWin {
 
 static const struct HackathonWin victorias[2] = {
     [0] = {
-        .event  = "Bitcoin++ Hackathon",
-        .status = "0x01_WINNER_FIRST_PLACE",
-        .stack  = {"TypeScript", "Web3 Protocols", "UTXO Logic"}
+        .event  = "Bitcoin++ Nairobi Hackathon",
+        .status = "0x01_WINNER_BTRUST_SPAM_AWARD",
+        .stack  = {"GitHub Actions", "Deterministic Rules", "AI Slop Filtering"}
     },
     [1] = {
         .event  = "AI4Startup Hackathon",
@@ -48,8 +46,10 @@ static const struct HackathonWin victorias[2] = {
         .stack  = {"Python", "React", "PyTorch/ML"}
     }
 };
-Tech Stack & Environment
-TypeScript
+```
+
+### Tech Stack & Environment
+```typescript
 interface SystemCapabilities {
   languages: string[];
   environment: Record<string, string>;
@@ -65,13 +65,16 @@ const spec: SystemCapabilities = {
   },
   frameworks: ["React", "Next.js", "Node.js", "Django", "PostgreSQL"]
 };
-Active Execution Threads
-Bash
-$ ps aux | grep active_processes
+```
+
+### Active Execution Threads
+```bash
+\$ ps aux | grep active_processes
 PID   TTY      TIME CMD
 1337  pts/0    00:04:20 ./build_systems --optimize
 
 # Thread State
 [STATUS_OK]      CIS Core Fundamentals Loaded
-[IN_PROGRESS]    Open Source Upstream Contributions
-[RUNNING]        Full-Stack System Architecture
+[IN_PROGRESS]    Upstream Core Engine & Nanu v2 Refactors
+[RUNNING]        Full-Stack Systems Triage & CI Pipeline Automation
+```
