@@ -1,25 +1,55 @@
-# Hi, I'm Aisha Omar Farah 👋
-**Full-Stack Software Engineer · CIS Graduate · Open Source Contributor**
+Markdown
+```bash
+$ cat > info.json << 'EOF'
+{
+  "user": "Aisha Omar Farah",
+  "role": "Full-Stack Software Engineer",
+  "education": "B.S. Computer Information Systems",
+  "environment": "Linux (Daily Driver)"
+}
+EOF
+   _  _     _                   _      
+  /_\(_)___| |_  __ _ __ _ ___ (_)___  
+ / _ \ / __| ' \/ _` / _` / _ \| / _ \ 
+/_/ \_\_\__|_||_\__,_\__, \___// \___/ 
+                     |___/   |__/      
+Full-Stack Engineer · CIS Graduate · Open Source Contributor
 
-I am a full-stack engineer specializing in reliable web architecture, developer tooling, and decentralized infrastructure. With a degree in Computer Information Systems and wins across competitive hackathons (Bitcoin++, AI4Startup), I focus on writing production-ready, maintainable code in Linux-native environments.
+Building high-throughput systems, cloud infrastructure, and decentralized protocols.
 
-[Portfolio](https://aishaomarfarah.onrender.com) · [LinkedIn](https://linkedin.com) · [Email](mailto:your-email@example.com)
+⚡ System Status & Track Record
+TypeScript
+const achievements = [
+  {
+    event: "Bitcoin++ Hackathon",
+    status: "WINNER 🏆",
+    stack: ["TypeScript", "Web3", "Bitcoin Protocols"],
+    summary: "Built and integrated decentralized application architecture under time constraints."
+  },
+  {
+    event: "AI4Startup Hackathon",
+    status: "WINNER 🏆",
+    stack: ["Python", "React", "Machine Learning"],
+    summary: "Designed and deployed full-stack AI platform MVP."
+  }
+];
+🛠️ Execution Stack
+YAML
+languages:
+  - Go
+  - TypeScript / JavaScript
+  - Python
+  - C++
+  - SQL
 
----
+infrastructure_and_tools:
+  - Daily OS: Arch / Debian / Linux
+  - Orchestration: Docker, Git, REST APIs
+  - Frameworks: React, Next.js, Node.js, Django
+📂 Active Contributions & Focus
+Bash
+# Current Targets
+$gh repo clone meshery/meshery$ cd meshery && git checkout -b fix/good-first-issue
+Open Source Goal: Master large-scale repository navigation, high-stakes PR reviews, and maintainer-grade workflows in CNCF ecosystems.
 
-### 🚀 Selected Highlights & Projects
-
-| Project / Recognition | Focus & Scope | Tech Stack |
-| :--- | :--- | :--- |
-| **Bitcoin++ Hackathon** | Winner: Protocol integration & decentralized application | Web3 · Bitcoin Protocols · TypeScript |
-| **AI4Startup Hackathon** | Winner: Full-stack AI application platform | Python · React · Full-Stack |
-| **Nanu Edu** | Educational infrastructure & web application | React · Node.js · Databases |
-
----
-
-### 🧰 Tech Stack
-
-**Languages:** JavaScript, TypeScript, Go, Python, SQL, C++  
-**Frontend:** React, Next.js, HTML5, CSS3/Tailwind  
-**Backend & DBs:** Node.js, Express, Django, PostgreSQL, MongoDB  
-**Tools & Systems:** Linux (Daily OS), Git/GitHub, Docker, REST APIs
+Connect: aishaomarfarah.onrender.com
