@@ -10,7 +10,8 @@ _/|/||||___/|| || |||| || ||| |_|
 
 ### Network Endpoints & Direct Contact
 
-[Portfolio](https://aishaomarfarah.onrender.com) | [Email](mailto:ashaomarrfarah@gmail.com) | [LinkedIn](https://linkedin.com)
+[Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com)
+
 
 </div>
 
