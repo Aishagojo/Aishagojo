@@ -75,6 +75,6 @@ PID   TTY      TIME CMD
 
 # Thread State
 [STATUS_OK]      CIS Core Fundamentals Loaded
-[IN_PROGRESS]    Upstream Core Engine & Nanu v2 Refactors
-[RUNNING]        Full-Stack Systems Triage & CI Pipeline Automation
+[IN_PROGRESS]    Proprietary Core Systems Optimization & Architecture
+[RUNNING]        Full-Stack Gateways & CI Pipeline Automation
 ```
