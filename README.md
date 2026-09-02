@@ -74,6 +74,3 @@ PID   TTY      TIME CMD
 [STATUS_OK]      CIS Core Fundamentals Loaded
 [IN_PROGRESS]    Open Source Upstream Contributions
 [RUNNING]        Full-Stack System Architecture
-===============================================================================
-[Terminal Endpoint] -> [https://aishaomarfarah.onrender.com](https://aishaomarfarah.onrender.com)
-===============================================================================
