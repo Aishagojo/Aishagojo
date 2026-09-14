@@ -1,13 +1,18 @@
 <div align="center">
   <h1>Aisha Gojo</h1>
-  <h3>🎓 BSc Computer Information Systems (2025) | Backend & Web3 Systems Develpoer</h3>
-  <p><b>4× Hackathon Winner</b> | Certified Backend & Bitcoin Developer | Web3 & Distributed Systems Architect</p>
-  <p>📍 Nairobi, Kenya | Focus: Scalable Backends, Bitcoin </p>
+  <h3>🎓 BSc Computer Information Systems (2025) | Backend & Web3 Systems Engineer</h3>
+  <p><b>4× Hackathon Winner</b> | Certified Backend & Bitcoin Developer | Web3 & Distributed Systems </p>
+  <p>📍 Nairobi, Kenya | Focus: Scalable Backends, Bitcoin</p>
 
   <p>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://aishaomarfarah.onrender.com/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" /></a>
+  </p>
+
+  <!-- Visitor Counter Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Aishagojo&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
@@ -26,13 +31,13 @@
 <br />
 
 <div align="center">
-  <h3>📜 Verified Certification Credentials</h3>
-  <a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz">
-    <img src="https://img.shields.io/badge/Verified_Certificate-ALX_Software_Engineering_Back--End-00B2A9?style=for-the-badge&logo=alx&logoColor=white" alt="ALX Backend Certificate" />
-  </a>
-  <a href="#-education--professional-certifications">
-    <img src="https://img.shields.io/badge/Verified_Certificate-Dada_Devs_Bitcoin_Developer-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Dada Devs Bitcoin Certificate" />
-  </a>
+  <h3>📜 Certification Credentials</h3>
+  
+  <!-- Embedded Certificates (Display directly without link redirects) -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Aishagojo/Aishagojo/master/Backend%20Develpment.jpeg" alt="ALX Backend Certificate" width="48%" />
+    <img src="https://raw.githubusercontent.com/Aishagojo/Aishagojo/master/img578.pdf" alt="Dada Devs Bitcoin Certificate" width="48%" />
+  </p>
 </div>
 
 <hr />
@@ -70,10 +75,10 @@
 ![ICP](https://img.shields.io/badge/ICP-292A2D?style=for-the-badge&logo=internetcomputer&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ### **Frontend & Artificial Intelligence**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -81,9 +86,9 @@
 
 <hr />
 
-## 📊 GitHub Analytics & Languages Rank
+## 📊 GitHub Analytics & Rank
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishagojo&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Aisha's GitHub Stats & Grade" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishagojo&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="Aisha's GitHub Stats & Grade" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishagojo&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Most Used Languages" width="48%" />
 </div>
