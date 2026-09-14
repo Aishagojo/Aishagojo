@@ -1,80 +1,70 @@
-===============================================================================
+<div align="center">
+  <!-- Official Cartoon GitHub Mascot Welcome Banner -->
+  <img src="https://vercel.app" width="100%" />
+  
+  <br />
 
- / _ \ |_   _| / ___| | | | / _ \   |_ _| / _ \     |_ _| / _ \ 
-/ /_\ \  | |   \___ \ | |_| |/ /_\ \   | | | | | |     | | | | | |
+  <!-- Animated Floating Cartoon Mona the Octocat -->
+  <img src="https://myoctocat.com" width="180" alt="Mona the Octocat" />
 
-|  _  |  | |    ___) ||  _  ||  _  |   | | | |_| |  _  | | | |_| |
-|_| |_|  |_|   |____/ |_| |_||_| |_|  |___| \___/  (___)_|  \___/ 
+  <h1>Hi, I'm [Your Name] 👋</h1>
+  <p><i>"Default human, premium open-source explorer."</i></p>
 
-===============================================================================
+  <!-- Fun Custom GitHub Badges -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
 
-### Network Endpoints & Direct Contact
-[Portfolio]( https://aishaomarfarah.onrender.com/)| [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com)
+<hr />
 
-```gdb
-\$ gdb -q ./aisha_farah
-(gdb) info target
-Symbols loaded from /usr/bin/aisha_farah:
-  [0x00] BS_CIS      : B.S. Computer Information Systems
-  [0x01] ARCH        : Linux x86_64 / Daily Driver
-  [0x02] KERNEL_OPTS : --strict-types --zero-copy --no-ai-shortcuts
-```
+## 🐙 Subroutine Log: About Me
 
-### Hackathon Victories & Exploits
-```c
-/* 
- * kernel/victories.c - Verified First Place Hackathon Executions
- */
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p>Welcome to my corner of GitHub! I break things, fix things, and write code to automate the boring parts of life.</p>
+      <ul>
+        <li>🐱 <b>Current Mission:</b> Building out incredible cartoon-style projects.</li>
+        <li>🧬 <b>Daily Dependencies:</b> React, TypeScript, and dark-themed code editors.</li>
+        <li>🗺️ <b>Coordinates:</b> Operating somewhere on Planet Earth.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Cartoon Jetpack/Lab Octocat representing building things -->
+      <img src="https://github.com" width="140" alt="Labtocat" />
+    </td>
+  </tr>
+</table>
 
-#include <stdio.h>
+<hr />
 
-struct HackathonWin {
-    const char *event;
-    const char *status;
-    const char *stack[3];
-};
+## 🛠️ My Toolbelt (Visual Badges)
 
-static const struct HackathonWin victorias[2] = {
-    [0] = {
-        .event  = "Bitcoin++ Nairobi Hackathon",
-        .status = "0x01_WINNER_BTRUST_SPAM_AWARD",
-        .stack  = {"GitHub Actions", "Deterministic Rules", "AI Slop Filtering"}
-    },
-    [1] = {
-        .event  = "AI4Startup Hackathon",
-        .status = "0x01_WINNER_FIRST_PLACE",
-        .stack  = {"Python", "React", "PyTorch/ML"}
-    }
-};
-```
+<div align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
 
-### Tech Stack & Environment
-```typescript
-interface SystemCapabilities {
-  languages: string[];
-  environment: Record<string, string>;
-  frameworks: string[];
-}
+<hr />
 
-const spec: SystemCapabilities = {
-  languages: ["TypeScript", "JavaScript", "Python", "C/C++", "SQL"],
-  environment: {
-    OS: "Linux x86_64 (Daily Driver)",
-    Shell: "zsh / bash-native",
-    Containers: "Docker / containerd"
-  },
-  frameworks: ["React", "Next.js", "Node.js", "Django", "PostgreSQL"]
-};
-```
+## 📊 Octocat Telemetry Stats
 
-### Active Execution Threads
-```bash
-\$ ps aux | grep active_processes
-PID   TTY      TIME CMD
-1337  pts/0    00:04:20 ./build_systems --optimize
+<div align="center">
+  <!-- Styled to look cleanly integrated into a cartoon/dark UI aesthetic -->
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</div>
 
-# Thread State
-[STATUS_OK]      CIS Core Fundamentals Loaded
-[IN_PROGRESS]    Proprietary Core Systems Optimization & Architecture
-[RUNNING]        Full-Stack Gateways & CI Pipeline Automation
-```
+<br />
+
+<div align="center">
+  <!-- Cartoon social links -->
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://github.com" width="50" alt="Class Act Octocat" />
+</div>
