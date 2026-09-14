@@ -133,11 +133,10 @@
       <h4>Dada Devs Bitcoin Developers Course</h4>
       <p><img src="https://img.shields.io/badge/Specialization-Bitcoin_Core_%26_Blockchain-F7931A?style=flat-square" /></p>
       <p><img src="https://img.shields.io/badge/Program-BUIDL_4_AFRICA-orange?style=flat-square" /></p>
-      <p><a href="./img578.pdf"><img src="https://img.shields.io/badge/View_Certificate-PDF-F7931A?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a></p>
       <hr style="border: 1px solid #30363d;" />
       <h4>ALX Software Engineering Programme</h4>
       <p><img src="https://img.shields.io/badge/Specialization-Back--End_Web_Dev-00B2A9?style=flat-square" /></p>
-      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a>[cite: 1]</p>
+      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a></p>
     </td>
   </tr>
 </table>
