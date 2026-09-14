@@ -1,70 +1,31 @@
 <div align="center">
-  <!-- Official Cartoon GitHub Mascot Welcome Banner -->
   <img src="https://vercel.app" width="100%" />
-  
-  <br />
-
-  <!-- Animated Floating Cartoon Mona the Octocat -->
-  <img src="https://myoctocat.com" width="180" alt="Mona the Octocat" />
-
-  <h1>Hi, I'm [Your Name] 👋</h1>
-  <p><i>"Default human, premium open-source explorer."</i></p>
-
-  <!-- Fun Custom GitHub Badges -->
+  <h3>🚀 Full-Stack & Web3 Engineer | 3× Hackathon Winner</h3>
+  <p><i>"I engineer ideas into real, scalable, and decentralized products."</i></p>
+  <p>📍 Based in Nairobi, Kenya | 🧬 Focus: Scalable APIs, Bitcoin Core Ecosystem, and Containerized Backends</p>
   <img src="https://shields.io" />
   <img src="https://shields.io" />
 </div>
 
 <hr />
 
-## 🐙 Subroutine Log: About Me
-
-<table border="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <p>Welcome to my corner of GitHub! I break things, fix things, and write code to automate the boring parts of life.</p>
-      <ul>
-        <li>🐱 <b>Current Mission:</b> Building out incredible cartoon-style projects.</li>
-        <li>🧬 <b>Daily Dependencies:</b> React, TypeScript, and dark-themed code editors.</li>
-        <li>🗺️ <b>Coordinates:</b> Operating somewhere on Planet Earth.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Cartoon Jetpack/Lab Octocat representing building things -->
-      <img src="https://github.com" width="140" alt="Labtocat" />
-    </td>
-  </tr>
-</table>
+## 🛠️ Production Stack & Tech Array
+* **Backend & APIs:** Python, Node.js, TypeScript, Django, FastAPI, Express, PostgreSQL, MySQL, Redis
+* **Web3 & Infrastructure:** Bitcoin Core, JSON-RPC, LND, Docker, Linux, Vercel, Render, AWS
+* **Frontend & AI:** React, React Native, Streamlit, OpenAI API integration, UI/UX Design
 
 <hr />
 
-## 🛠️ My Toolbelt (Visual Badges)
-
-<div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+## 🏆 Hackathon Victories
+* 🥇 **WINNER:** Bitcoin++ Open Source Edition (CoreGate - PR quality gate & mentor for Bitcoin Core)
+* 🥈 **2nd PLACE:** Ai4Startup AgriFintech Hackathon (GreenVast - AgriFintech platform for smallholders)
 
 <hr />
 
-## 📊 Octocat Telemetry Stats
+## 🚀 Featured Projects & Analytics
+Includes featured repositories like **Askly**, **Momentum API**, and **Bitcoin Lightning Checkout**, paired with live GitHub telemetry stats, trophies, and the contribution grid snake game.
 
-<div align="center">
-  <!-- Styled to look cleanly integrated into a cartoon/dark UI aesthetic -->
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</div>
+<hr />
 
-<br />
-
-<div align="center">
-  <!-- Cartoon social links -->
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://github.com" width="50" alt="Class Act Octocat" />
-</div>
+## 📡 Terminal Interfaces
+Access the live portfolio at `https://onrender.com`.
