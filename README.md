@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Aisha Gojo</h1>
   <h3>BSc Computer Information Systems (2025) | Backend & Web3 Systems Engineer</h3>
-  <p><b>4x Hackathon Winner</b> | Certified Backend & Bitcoin Developer | Web3 & Distributed Systems </p>
-  <p>📍 Nairobi, Kenya | Focus: Scalable Backends, Bitcoin Protocol</p>
+  <p><b>4x Hackathon Winner</b> | Certified Backend & Bitcoin Developer | Web3 & Distributed Systems Architect</p>
+  <p>📍 Nairobi, Kenya | Focus: Scalable Backends, Bitcoin Protocol & High-Throughput L1s</p>
 
   <p>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -22,10 +22,12 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Academic Degree</h3>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <p align="left">
+        <img src="https://img.shields.io/badge/Academic_Degree-0e75b6?style=for-the-badge" alt="Academic Degree" />
+      </p>
       <h4>Bachelor of Science in Computer Information Systems</h4>
-      <p><b>Institution:</b> Class of 2025</p>
+      <p><img src="https://img.shields.io/badge/Class_of-2025-2ea44f?style=flat-square" /></p>
       <p><b>Core Focus:</b></p>
       <ul>
         <li>Distributed Backend Systems & Architecture</li>
@@ -33,49 +35,74 @@
         <li>Database Optimization & Network Security</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>Industry Certifications</h3>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <p align="left">
+        <img src="https://img.shields.io/badge/Industry_Certifications-8a2be2?style=for-the-badge" alt="Industry Certifications" />
+      </p>
       <h4>ALX Software Engineering Programme</h4>
-      <p><b>Specialization:</b> Back-End Web Development (Sept 2025)[cite: 1]</p>
-      <p><b>Verification:</b> <a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz">Official Credential Link</a>[cite: 1]</p>
-      <hr />
+      <p><img src="https://img.shields.io/badge/Specialization-Back--End_Web_Dev-00B2A9?style=flat-square" /></p>
+      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a>[cite: 1]</p>
+      <hr style="border: 1px solid #30363d;" />
       <h4>Dada Devs Bitcoin Developers Course</h4>
-      <p><b>Specialization:</b> Bitcoin Core Protocol & Blockchain Engineering[cite: 1]</p>
-      <p><b>Program:</b> BUIDL 4 AFRICA[cite: 1]</p>
+      <p><img src="https://img.shields.io/badge/Specialization-Bitcoin_Core_%26_Blockchain-F7931A?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/Program-BUIDL_4_AFRICA-orange?style=flat-square" /></p>
     </td>
   </tr>
 </table>
 
 <hr />
 
-## Currently Building
+## Currently Building & Expanding
+
 * **Pesa** — High-throughput financial backend & payment infrastructure powering modern web & mobile transactions.
 * **Stoxbits** — Decentralized asset tracking & Web3 analytics dashboard engineered for protocol transparency.
+* **Solana Ecosystem Development** — Currently mastering **Rust**, the **Anchor Framework**, and Program Derived Addresses (PDAs) to engineer ultra-low latency, parallelized smart contracts on Solana.
 
 <hr />
 
 ## Hackathon Victories & Awards
 
 <table>
-  <tr>
-    <th width="30%">Event / Track</th>
-    <th width="20%">Award</th>
-    <th width="50%">Engineered Solution & Key Impact</th>
+  <tr style="background-color: #161b22;">
+    <th width="28%">Event & Repository</th>
+    <th width="18%">Award</th>
+    <th width="54%">Engineered Solution & Technical Impact</th>
   </tr>
   <tr>
-    <td><b>ICP Hackathon 2024</b></td>
-    <td><b>1st Place Winner</b></td>
-    <td>Architected a high-concurrency decentralized application leveraging canisters on the Internet Computer Protocol ecosystem.</td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <b>ICP Hackathon 2024</b><br />
+      <a href="https://github.com/Team-Z-ICP/Visitor_Management_Systems">
+        <img src="https://img.shields.io/badge/Repository-Visitor_Management_System-292A2D?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/1st_Place-Winner-2ea44f?style=for-the-badge" />
+    </td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <b>Decentralized Visitor Management System:</b> Architected smart contract canisters on the Internet Computer Protocol (ICP) to manage decentralized access control, automated visitor identity verification, and immutable check-in logs.
+    </td>
   </tr>
   <tr>
-    <td><b>Bitcoin++ Open Source Edition</b></td>
-    <td><b>1st Place Winner</b></td>
-    <td><b>CoreGate:</b> Built an automated pull request quality gate and AI mentorship bot to streamline open-source contributions to Bitcoin Core.</td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <b>Bitcoin++ Open Source</b>
+    </td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/1st_Place-Winner-F7931A?style=for-the-badge" />
+    </td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <b>CoreGate:</b> Built an automated pull request quality gate and AI mentorship bot to streamline open-source contributions to Bitcoin Core.
+    </td>
   </tr>
   <tr>
-    <td><b>Ai4Startup AgriFintech</b></td>
-    <td><b>2nd Place Winner</b></td>
-    <td><b>GreenVast:</b> Engineered a scalable financial allocation engine and backend for smallholder agricultural management.</td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <b>Ai4Startup AgriFintech</b>
+    </td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/2nd_Place-Runner_Up-8a2be2?style=for-the-badge" />
+    </td>
+    <td style="background-color: #0d1117; border: 1px solid #30363d;">
+      <b>GreenVast:</b> Engineered a scalable financial allocation engine and backend for smallholder agricultural management.
+    </td>
   </tr>
 </table>
 
@@ -91,17 +118,18 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases & In-Memory Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Web3, Protocols & Cloud Infrastructure
+### Web3, Blockchains & Cloud Infrastructure
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin_Core-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![ICP](https://img.shields.io/badge/ICP-292A2D?style=for-the-badge&logo=internetcomputer&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+
+### Databases & In-Memory Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Frontend & Artificial Intelligence
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
