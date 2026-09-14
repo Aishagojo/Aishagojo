@@ -69,11 +69,10 @@
 
 <hr />
 
-## Currently Building & Expanding
+## Currently Building
 
 * **Pesa** — High-throughput financial backend & payment infrastructure powering modern web & mobile transactions.
 * **Stoxbits** — Decentralized asset tracking & Web3 analytics dashboard engineered for protocol transparency.
-* **Solana Ecosystem Development** — Currently mastering **Rust**, the **Anchor Framework**, and Program Derived Addresses (PDAs) to engineer ultra-low latency, parallelized smart contracts on Solana.
 
 <hr />
 
@@ -136,16 +135,7 @@
       <hr style="border: 1px solid #30363d;" />
       <h4>ALX Software Engineering Programme</h4>
       <p><img src="https://img.shields.io/badge/Specialization-Back--End_Web_Dev-00B2A9?style=flat-square" /></p>
-      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a></p>
+      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a>[cite: 1]</p>
     </td>
   </tr>
 </table>
-
-<hr />
-
-## GitHub Analytics & Rank
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishagojo&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&rank_icon=percentile" alt="Aisha's GitHub Stats & Grade" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishagojo&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Most Used Languages" width="48%" />
-</div>
