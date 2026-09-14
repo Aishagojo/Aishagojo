@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Aisha Gojo</h1>
   <h3>BSc Computer Information Systems (2025) | Backend & Web3 Systems Engineer</h3>
-  <p><b>4x Hackathon Winner</b> | Certified Backend & Bitcoin Developer | Web3 & Distributed Systems Architect</p>
+  <p><b>4x Hackathon Winner</b> | Certified Backend & Bitcoin Developer | Web3 & Distributed Systems </p>
   <p>📍 Nairobi, Kenya | Focus: Scalable Backends, Bitcoin Protocol</p>
 
   <p>
@@ -18,26 +18,33 @@
 
 <hr />
 
-## Education & Professional Certifications
+## Education & Specialized Training
 
-* **Bachelor of Science in Computer Information Systems (CIS)** — Graduated 2025
-* **ALX Software Engineering Programme in Back-End Web Development**
-  * **Issuer:** ALX / AL Group (Issued Sept 18, 2025)
-  * **Verification Link:** [Verify ALX Certificate](https://savanna.alxafrica.com/certificates/spZmC2cSrz)
-* **Dada Devs Bitcoin Developers Course**
-  * **Issuer:** Dada Devs | BUIDL 4 AFRICA
-  * **Specialization:** Bitcoin Core Ecosystem & Blockchain Engineering
-
-<br />
-
-<div align="center">
-  <h3>Certification Credentials</h3>
-  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Aishagojo/Aishagojo/master/Backend%20Develpment.jpeg" alt="ALX Backend Certificate" width="48%" />
-    <img src="https://img.shields.io/badge/Dada_Devs-Bitcoin_Developer_Certificate-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Dada Devs Bitcoin Certificate" width="48%" />
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Academic Degree</h3>
+      <h4>Bachelor of Science in Computer Information Systems</h4>
+      <p><b>Institution:</b> Class of 2025</p>
+      <p><b>Core Focus:</b></p>
+      <ul>
+        <li>Distributed Backend Systems & Architecture</li>
+        <li>Advanced Data Structures & Algorithms</li>
+        <li>Database Optimization & Network Security</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Industry Certifications</h3>
+      <h4>ALX Software Engineering Programme</h4>
+      <p><b>Specialization:</b> Back-End Web Development (Sept 2025)[cite: 1]</p>
+      <p><b>Verification:</b> <a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz">Official Credential Link</a>[cite: 1]</p>
+      <hr />
+      <h4>Dada Devs Bitcoin Developers Course</h4>
+      <p><b>Specialization:</b> Bitcoin Core Protocol & Blockchain Engineering[cite: 1]</p>
+      <p><b>Program:</b> BUIDL 4 AFRICA[cite: 1]</p>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
@@ -47,10 +54,30 @@
 
 <hr />
 
-## Hackathon Victories
-* **1st Place:** ICP (Internet Computer Protocol) Hackathon 2024
-* **1st Place / Winner:** Bitcoin++ Open Source Edition — CoreGate (Automated PR quality gate & mentorship bot for Bitcoin Core)
-* **2nd Place:** Ai4Startup AgriFintech Hackathon — GreenVast (Fintech & smart allocation platform for smallholder farmers)
+## Hackathon Victories & Awards
+
+<table>
+  <tr>
+    <th width="30%">Event / Track</th>
+    <th width="20%">Award</th>
+    <th width="50%">Engineered Solution & Key Impact</th>
+  </tr>
+  <tr>
+    <td><b>ICP Hackathon 2024</b></td>
+    <td><b>1st Place Winner</b></td>
+    <td>Architected a high-concurrency decentralized application leveraging canisters on the Internet Computer Protocol ecosystem.</td>
+  </tr>
+  <tr>
+    <td><b>Bitcoin++ Open Source Edition</b></td>
+    <td><b>1st Place Winner</b></td>
+    <td><b>CoreGate:</b> Built an automated pull request quality gate and AI mentorship bot to streamline open-source contributions to Bitcoin Core.</td>
+  </tr>
+  <tr>
+    <td><b>Ai4Startup AgriFintech</b></td>
+    <td><b>2nd Place Winner</b></td>
+    <td><b>GreenVast:</b> Engineered a scalable financial allocation engine and backend for smallholder agricultural management.</td>
+  </tr>
+</table>
 
 <hr />
 
@@ -88,6 +115,6 @@
 ## GitHub Analytics & Rank
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishagojo&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Aisha's GitHub Stats & Grade" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishagojo&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&rank_icon=percentile" alt="Aisha's GitHub Stats & Grade" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishagojo&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Most Used Languages" width="48%" />
 </div>
