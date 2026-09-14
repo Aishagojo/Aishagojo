@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Aisha Omar</h1>
-  <h3>🎓 BSc Computer Information Systems (2025) | 🚀 Backend & Web3 Systems Engineer</h3>
-  <p><b>4× Hackathon Winner</b> | Certified Backend Specialist | Web3 & Distributed Systems Architect</p>
-  <p>📍 Nairobi, Kenya | 🧬 Focus: Scalable Backends, Bitcoin & ICP Protocols, Cloud Infrastructure</p>
+  <h1>Aisha Gojo</h1>
+  <h3>🎓 BSc Computer Information Systems (2025) | Backend & Web3 Systems Develpoer</h3>
+  <p><b>4× Hackathon Winner</b> | Certified Backend & Bitcoin Developer | Web3 & Distributed Systems Architect</p>
+  <p>📍 Nairobi, Kenya | Focus: Scalable Backends, Bitcoin </p>
 
   <p>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,8 +14,26 @@
 <hr />
 
 ## 🎓 Education & Professional Certifications
+
 * 🎓 **Bachelor of Science in Computer Information Systems (CIS)** — Graduated 2025
-* 📜 **Certified Backend Software Engineer** — Specialized in Distributed Systems, High-Concurrency APIs & Database Architecture
+* 📜 **ALX Software Engineering Programme in Back-End Web Development**[cite: 1]
+  * **Issuer:** ALX / AL Group (Issued Sept 18, 2025)[cite: 1]
+  * **Verification Link:** [Verify ALX Certificate](https://savanna.alxafrica.com/certificates/spZmC2cSrz)[cite: 1]
+* 📜 **Dada Devs Bitcoin Developers Course**[cite: 1]
+  * **Issuer:** Dada Devs | BUIDL 4 AFRICA[cite: 1]
+  * **Specialization:** Bitcoin Core Ecosystem & Blockchain Engineering[cite: 1]
+
+<br />
+
+<div align="center">
+  <h3>📜 Verified Certification Credentials</h3>
+  <a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz">
+    <img src="https://img.shields.io/badge/Verified_Certificate-ALX_Software_Engineering_Back--End-00B2A9?style=for-the-badge&logo=alx&logoColor=white" alt="ALX Backend Certificate" />
+  </a>
+  <a href="#-education--professional-certifications">
+    <img src="https://img.shields.io/badge/Verified_Certificate-Dada_Devs_Bitcoin_Developer-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Dada Devs Bitcoin Certificate" />
+  </a>
+</div>
 
 <hr />
 
