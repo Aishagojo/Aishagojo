@@ -1,31 +1,70 @@
 <div align="center">
-  <img src="https://vercel.app" width="100%" />
-  <h3>🚀 Full-Stack & Web3 Engineer | 3× Hackathon Winner</h3>
-  <p><i>"I engineer ideas into real, scalable, and decentralized products."</i></p>
-  <p>📍 Based in Nairobi, Kenya | 🧬 Focus: Scalable APIs, Bitcoin Core Ecosystem, and Containerized Backends</p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <h1>Aisha Gojo</h1>
+  <h3>🚀 Full-Stack & Web3 Engineer | 4× Hackathon Winner</h3>
+  <p><i>"Engineering ideas into production-ready, highly scalable, and decentralized systems."</i></p>
+  <p>📍 Nairobi, Kenya | 🧬 Focus: Scalable Backend Architecture, Bitcoin Core, & Web3 Protocols</p>
+
+  <p>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://yourportfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" /></a>
+  </p>
 </div>
 
 <hr />
 
-## 🛠️ Production Stack & Tech Array
-* **Backend & APIs:** Python, Node.js, TypeScript, Django, FastAPI, Express, PostgreSQL, MySQL, Redis
-* **Web3 & Infrastructure:** Bitcoin Core, JSON-RPC, LND, Docker, Linux, Vercel, Render, AWS
-* **Frontend & AI:** React, React Native, Streamlit, OpenAI API integration, UI/UX Design
+## ⚡ Currently Building
+* **Pesa** — High-throughput financial backend & payment infrastructure powering modern web & mobile transactions.
+* **Stoxbits** — Decentralized asset tracking & Web3 analytics dashboard designed for institutional-grade clarity.
 
 <hr />
 
 ## 🏆 Hackathon Victories
-* 🥇 **WINNER:** Bitcoin++ Open Source Edition (CoreGate - PR quality gate & mentor for Bitcoin Core)
-* 🥈 **2nd PLACE:** Ai4Startup AgriFintech Hackathon (GreenVast - AgriFintech platform for smallholders)
+* 🥇 **1st Place:** ICP (Internet Computer Protocol) Hackathon 2024
+* 🥇 **1st Place / Winner:** Bitcoin++ Open Source Edition — *CoreGate* (Automated PR quality gate & mentorship bot for Bitcoin Core)
+* 🥈 **2nd Place:** Ai4Startup AgriFintech Hackathon — *GreenVast* (Fintech & smart allocation platform for smallholder farmers)
 
 <hr />
 
-## 🚀 Featured Projects & Analytics
-Includes featured repositories like **Askly**, **Momentum API**, and **Bitcoin Lightning Checkout**, paired with live GitHub telemetry stats, trophies, and the contribution grid snake game.
+## 🛠️ Tech Stack & Systems Engineering
+
+### **Backend & System Architecture**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Web3, Protocols & Infrastructure**
+![Bitcoin](https://img.shields.io/badge/Bitcoin_Core-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
+![ICP](https://img.shields.io/badge/ICP-292A2D?style=for-the-badge&logo=internetcomputer&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### **Frontend & Artificial Intelligence**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <hr />
 
-## 📡 Terminal Interfaces
-Access the live portfolio at `https://onrender.com`.
+## 🚀 Key Open-Source Projects
+* **Askly** — AI-powered real-time contextual query engine.
+* **Momentum API** — Lightweight, high-concurrency middleware service for scalable operations.
+* **Bitcoin Lightning Checkout** — Payment gateway bridging Web2 infrastructure with non-custodial Lightning transactions.
+
+<hr />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishagojo&show_icons=true&theme=dark&hide_border=true" alt="Aisha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishagojo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</div>
