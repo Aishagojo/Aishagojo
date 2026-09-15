@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/aisha-omar-572429242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:ashaomarrfarah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://aishaomarfarah.onrender.com/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" /></a>
-    <a href="https://raw.githubusercontent.com/Aishagojo/Aishagojo/main/Aisha_Omar_Farah_CV.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-FF9900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+    <a href="https://github.com/Aishagojo/Aishagojo/blob/main/Aisha_Omar_Farah_CV.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-FF9900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   </p>
 
   <!-- Visitor Counter Badge -->
@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/badge/1st_Place-Winner-F7931A?style=for-the-badge" />
     </td>
     <td style="background-color: #0d1117; border: 1px solid #30363d;">
-      <b>CoreGate:</b> Architected an automated pull request quality gate and interactive AI mentorship bot designed to validate, review, and streamline open-source developer contributions to Bitcoin Core.
+      <b>CoreGate:</b> Architected an automated pull request quality gate and interactive AI mentorship bot designed to validate, review, and streamline open-source developer contributions to Bitcoin Core[cite: 3].
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/1st_Place-Winner-2ea44f?style=for-the-badge" />
     </td>
     <td style="background-color: #0d1117; border: 1px solid #30363d;">
-      <b>Decentralized Visitor Management System:</b> Architected smart contract canisters on the Internet Computer Protocol (ICP) to manage decentralized access control, automated visitor identity verification, and immutable check-in logs.
+      <b>Decentralized Visitor Management System:</b> Architected smart contract canisters on the Internet Computer Protocol (ICP) to manage decentralized access control, automated visitor identity verification, and immutable check-in logs[cite: 3].
     </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
 
 ## Currently Building
 
-* **PesaPipe** — Headless remittance payment gateway bridging Layer-2 Bitcoin (Lightning Network) settlement with Kenyan mobile money systems (KES/USSD) using Node.js, Express, LND REST APIs, and Docker.
+* **PesaPipe** — Headless remittance payment gateway bridging Layer-2 Bitcoin (Lightning Network) settlement with Kenyan mobile money systems (KES/USSD) using Node.js, Express, LND REST APIs, and Docker[cite: 3].
 * **Stoxbits** — Decentralized asset tracking & Web3 analytics dashboard engineered for protocol transparency.
 
 <hr />
@@ -136,7 +136,7 @@
       <hr style="border: 1px solid #30363d;" />
       <h4>ALX Software Engineering Programme</h4>
       <p><img src="https://img.shields.io/badge/Specialization-Back--End_Web_Dev-00B2A9?style=flat-square" /></p>
-      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a></p>
+      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a>[cite: 3]</p>
     </td>
   </tr>
 </table>
