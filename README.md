@@ -5,9 +5,10 @@
   <p>📍 Nairobi, Kenya | Focus: Scalable Backends, Bitcoin Protocol & High-Throughput L1s</p>
 
   <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:aishaomarfarah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/aisha-omar-572429242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:ashaomarrfarah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://aishaomarfarah.onrender.com/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" /></a>
+    <a href="https://aishaomarfarah.onrender.com/"><img src="https://img.shields.io/badge/Curriculum_Vitae-FF9900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   </p>
 
   <!-- Visitor Counter Badge -->
@@ -71,7 +72,7 @@
 
 ## Currently Building
 
-* **Pesa** — High-throughput financial backend & payment infrastructure powering modern web & mobile transactions.
+* **PesaPipe** — Headless remittance payment gateway bridging Layer-2 Bitcoin (Lightning Network) settlement with Kenyan mobile money systems (KES/USSD) using Node.js, Express, LND REST APIs, and Docker.
 * **Stoxbits** — Decentralized asset tracking & Web3 analytics dashboard engineered for protocol transparency.
 
 <hr />
@@ -135,7 +136,7 @@
       <hr style="border: 1px solid #30363d;" />
       <h4>ALX Software Engineering Programme</h4>
       <p><img src="https://img.shields.io/badge/Specialization-Back--End_Web_Dev-00B2A9?style=flat-square" /></p>
-      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a>[cite: 1]</p>
+      <p><a href="https://savanna.alxafrica.com/certificates/spZmC2cSrz"><img src="https://img.shields.io/badge/Verify_Credential-Click_Here-blue?style=flat-square" /></a></p>
     </td>
   </tr>
 </table>
