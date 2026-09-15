@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/aisha-omar-572429242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:ashaomarrfarah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://aishaomarfarah.onrender.com/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" /></a>
-    <a href="https://github.com/Aishagojo/Aishagojo/blob/main/Aisha_Omar_Farah_CV.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-FF9900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+    <a href="https://github.com/Aishagojo/Aishagojo/blob/master/Aisha_Omar_Farah_CV.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-FF9900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   </p>
 
   <!-- Visitor Counter Badge -->
